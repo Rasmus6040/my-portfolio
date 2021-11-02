@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5733476.chunk.css",
-    "main.js": "/static/js/main.f5d1dcd0.chunk.js",
-    "main.js.map": "/static/js/main.f5d1dcd0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.78b8ca75.js",
-    "runtime-main.js.map": "/static/js/runtime-main.78b8ca75.js.map",
-    "static/js/2.a28b2e24.chunk.js": "/static/js/2.a28b2e24.chunk.js",
-    "static/js/2.a28b2e24.chunk.js.map": "/static/js/2.a28b2e24.chunk.js.map",
-    "static/js/3.0aa0d504.chunk.js": "/static/js/3.0aa0d504.chunk.js",
-    "static/js/3.0aa0d504.chunk.js.map": "/static/js/3.0aa0d504.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b5733476.chunk.css.map": "/static/css/main.b5733476.chunk.css.map",
-    "static/js/2.a28b2e24.chunk.js.LICENSE.txt": "/static/js/2.a28b2e24.chunk.js.LICENSE.txt",
-    "static/media/Brodal.3f8ca7d0.jpg": "/static/media/Brodal.3f8ca7d0.jpg",
-    "static/media/Flisepudser.7dd7ce06.jpg": "/static/media/Flisepudser.7dd7ce06.jpg",
-    "static/media/FrontImage.934829dd.jpg": "/static/media/FrontImage.934829dd.jpg",
-    "static/media/Klinik.f8549380.jpg": "/static/media/Klinik.f8549380.jpg",
-    "static/media/POW.785e9373.jpg": "/static/media/POW.785e9373.jpg",
-    "static/media/Quvang.1248c13c.jpg": "/static/media/Quvang.1248c13c.jpg",
-    "static/media/Torden.822c4112.jpg": "/static/media/Torden.822c4112.jpg",
-    "static/media/ValT.523a7837.jpg": "/static/media/ValT.523a7837.jpg"
+    "main.css": "/index/static/css/main.b5733476.chunk.css",
+    "main.js": "/index/static/js/main.674f9b72.chunk.js",
+    "main.js.map": "/index/static/js/main.674f9b72.chunk.js.map",
+    "runtime-main.js": "/index/static/js/runtime-main.f348461e.js",
+    "runtime-main.js.map": "/index/static/js/runtime-main.f348461e.js.map",
+    "static/js/2.a28b2e24.chunk.js": "/index/static/js/2.a28b2e24.chunk.js",
+    "static/js/2.a28b2e24.chunk.js.map": "/index/static/js/2.a28b2e24.chunk.js.map",
+    "static/js/3.0aa0d504.chunk.js": "/index/static/js/3.0aa0d504.chunk.js",
+    "static/js/3.0aa0d504.chunk.js.map": "/index/static/js/3.0aa0d504.chunk.js.map",
+    "index.html": "/index/index.html",
+    "static/css/main.b5733476.chunk.css.map": "/index/static/css/main.b5733476.chunk.css.map",
+    "static/js/2.a28b2e24.chunk.js.LICENSE.txt": "/index/static/js/2.a28b2e24.chunk.js.LICENSE.txt",
+    "static/media/Brodal.3f8ca7d0.jpg": "/index/static/media/Brodal.3f8ca7d0.jpg",
+    "static/media/Flisepudser.7dd7ce06.jpg": "/index/static/media/Flisepudser.7dd7ce06.jpg",
+    "static/media/FrontImage.934829dd.jpg": "/index/static/media/FrontImage.934829dd.jpg",
+    "static/media/Klinik.f8549380.jpg": "/index/static/media/Klinik.f8549380.jpg",
+    "static/media/POW.785e9373.jpg": "/index/static/media/POW.785e9373.jpg",
+    "static/media/Quvang.1248c13c.jpg": "/index/static/media/Quvang.1248c13c.jpg",
+    "static/media/Torden.822c4112.jpg": "/index/static/media/Torden.822c4112.jpg",
+    "static/media/ValT.523a7837.jpg": "/index/static/media/ValT.523a7837.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.78b8ca75.js",
+    "static/js/runtime-main.f348461e.js",
     "static/js/2.a28b2e24.chunk.js",
     "static/css/main.b5733476.chunk.css",
-    "static/js/main.f5d1dcd0.chunk.js"
+    "static/js/main.674f9b72.chunk.js"
   ]
 }
