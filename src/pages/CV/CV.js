@@ -4,12 +4,10 @@ import Contact from '../../components/Contact'
 import MyCV from './MyCV'
 
 
-function CV() {
+function CV({language}) {
     return (
         <>
-        <Navbar/>
-        <MyCV/>
-        <Contact/>
+        <MyCV language={language}/>
       </>
     )
 }

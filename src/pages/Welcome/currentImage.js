@@ -46,7 +46,7 @@ function currentImage({index}) {
                     <img src={Flispudser} title="Flispudser lauget"/>
                 </div>
                 <div className="caption-container">
-                <p id="caption"><a href="https://flisepudser.dk/"> Quvangs køreskole </a></p>
+                <p id="caption"><a href="https://flisepudser.dk/"> Flispudser lauget </a></p>
                 </div>
                 </>
             )

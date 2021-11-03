@@ -462,7 +462,9 @@ a:hover{
 .cv__section{
   margin: 20px 50px 60px 100px; 
 }
-
+.cv__section ul{
+  max-width: 800px; 
+}
 .cv__info{
   vertical-align: top;
   margin-top: 10px;
@@ -475,6 +477,29 @@ a:hover{
   margin-top: 10px;
   display: inline-block;
 }
+
+.language {
+  position: fixed;
+  right: 20px;
+  top: 10px;
+}
+.language p{
+  display: inline-block;
+  margin-left: 10px;
+  font-size: 30px;
+  padding: 0;
+  margin-top: 0px;
+}
+
+.selected{
+  color:#aaa;
+}
+
+.language p:hover{
+  cursor: pointer;
+  color:#aaa;
+}
+
 
 @media(max-width: 1000px){
   .cv__info{
@@ -503,6 +528,9 @@ a:hover{
 }
 
 @media(max-width: 500px){
+  .portfolio{
+    padding: 100px;
+  }
 
   .cv__info{
     margin-top: 0px;

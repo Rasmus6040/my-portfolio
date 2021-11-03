@@ -5,14 +5,14 @@ import WhyMe from './WhyMe';
 import Navbar from '../../components/Navbar';
 import Contact from '../../components/Contact';
 
-function Welcome() {
+function Welcome({language}) {
   return(
     <>
-      <Navbar/>
-      <Intro/>
-      <WhyMe/>
-      <AboutMe/>
-      <Contact/>
+      <Navbar language={language}/>
+      <Intro language={language}/>
+      <WhyMe language={language}/>
+      <AboutMe language={language}/>
+      <Contact language={language}/>
     </>
   )
 }

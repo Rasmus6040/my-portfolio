@@ -4,7 +4,8 @@ import '../../App.css';
 import Zoom from 'react-reveal/Zoom';
 
 
-function Intro() {
+function Intro({language}) {
+  if(language == "danish"){
     return (
       <section className="intro-section">
         <Zoom>
@@ -21,6 +22,24 @@ function Intro() {
         </Zoom>
       </section>
     );
+  }else{
+    return (
+      <section className="intro-section">
+        <Zoom>
+        <div className="intro" id="intro">
+          <h1 className="section__title section__title--intro"> 
+            Hey I'm <strong>Rasmus Pedersen</strong>
+          </h1>
+          <p className="section__subtitle section__subtitle--intro">Computer Science Student</p>
+          <img className="intro__img" src={FrontImage} alt="Rasmus Pedersen"></img>
+        </div>
+        <div className="sub-intro">
+          <h2 className="section__title center"> Webdesigner, React and Java </h2>
+        </div>
+        </Zoom>
+      </section>
+    );
+  }
 }
 
 export default Intro
