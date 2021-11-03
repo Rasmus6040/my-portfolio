@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.b5733476.chunk.css",
+    "main.css": "/my-portfolio/static/css/main.5f545c4b.chunk.css",
     "main.js": "/my-portfolio/static/js/main.30fc4e7f.chunk.js",
     "main.js.map": "/my-portfolio/static/js/main.30fc4e7f.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.d612a14e.js",
@@ -10,7 +10,7 @@
     "static/js/3.0aa0d504.chunk.js": "/my-portfolio/static/js/3.0aa0d504.chunk.js",
     "static/js/3.0aa0d504.chunk.js.map": "/my-portfolio/static/js/3.0aa0d504.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "static/css/main.b5733476.chunk.css.map": "/my-portfolio/static/css/main.b5733476.chunk.css.map",
+    "static/css/main.5f545c4b.chunk.css.map": "/my-portfolio/static/css/main.5f545c4b.chunk.css.map",
     "static/js/2.a28b2e24.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.a28b2e24.chunk.js.LICENSE.txt",
     "static/media/Brodal.3f8ca7d0.jpg": "/my-portfolio/static/media/Brodal.3f8ca7d0.jpg",
     "static/media/Flisepudser.7dd7ce06.jpg": "/my-portfolio/static/media/Flisepudser.7dd7ce06.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.d612a14e.js",
     "static/js/2.a28b2e24.chunk.js",
-    "static/css/main.b5733476.chunk.css",
+    "static/css/main.5f545c4b.chunk.css",
     "static/js/main.30fc4e7f.chunk.js"
   ]
 }
